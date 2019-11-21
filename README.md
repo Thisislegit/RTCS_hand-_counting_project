@@ -9,3 +9,5 @@ Use Raspbery Pi to achieve hand counting and use this counting number to switch 
 + Specification: Raspbery 3B+ 
 + OpenCV version:3.4
 + Python version:3.5
+
++ Reference: hand.py is from Shivam06
